@@ -7,5 +7,6 @@ public class GitHubRepo {
 	@Test
 	public void GitHubTest() {
  System.out.println("RepositoryGithub");
+ System.out.println("RepoGithub");
 	}
 }
