@@ -2,7 +2,7 @@ package SDET25;
 
 import org.testng.annotations.Test;
 
-public class GitHubRepo {
+public class GitHubRepoTest {
 	
 	@Test
 	public void GitHubTest() {
